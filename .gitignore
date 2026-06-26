@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+build/
+install/
+log/
+
+D1_strawberry_src/resource/kitkit2.usd
